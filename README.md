@@ -1,7 +1,7 @@
 # rc-screen-wrapper
-  全屏大数据使用全屏组件，根据适配的最大设计稿缩放的容器组件，
+  全屏大数据使用全屏hock组件，根据适配的最大设计稿缩放的容器组件，不同情况下选择高度占满或宽度占满
 ### Demo查看
-[在线查看](https://zuolung.github.io/rc-screen-wrapper/dist/index.html)
+[在线查看](https://zuolung.github.io/rc-screen-wrapper/disk/index.html)
 ### 安装
     npm i rc-screen-wrapper -S
 ###  使用
